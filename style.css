@@ -1,0 +1,50 @@
+body{
+    padding: 18em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin: 5em;
+}
+.img{
+    height: 100px;
+    width: 500px;
+}
+p{
+    text-align: justify;
+}
+*{
+    box-sizing: border-box;
+}
+.tab{
+   margin-left: -5px;
+    margin-right: 5px;
+   
+      
+    
+}
+.tb1{
+  width: 50%;
+ float:left;
+    padding: 5px;
+margin: }
+.tab::after{
+    clear: both;
+    display: table;
+    content: "";
+}
+table{
+    border-collapse:collapse
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid black;
+    color: black;
+    background-color: black;
+    
+}
+
+
+
+   
+    
+        
+     
+
